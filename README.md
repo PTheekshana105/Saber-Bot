@@ -23,7 +23,7 @@
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-![GitHub](https://img.shields.io/github/license/Imtheekshana126/saber-bot)
+![GitHub](https://img.shields.io/github/license/ptheekshana105/saber-bot)
 
 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/open-book_1f4d6.png">
@@ -40,7 +40,7 @@
 
 <p align="center"><a href="https://t.me/NatsukiSupport_Official"><img src="https://telegra.ph/file/e381a63724b094bbf4456.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://github.com/Imtheekshana126/saber-bot/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/Imtheekshana126/saber-bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ptheekshana105/saber-bot/commits/SadewJayasekara"> <img src="https://img.shields.io/github/last-commit/ptheekshana105/saber-bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
   
 </p>
 
@@ -48,7 +48,7 @@
 
 # Deploy to Heroku
 
-[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/imtheekshana126/saber-bot)
+[![ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ptheekshana105/saber-bot)
 
 ## TeamSaber
 
@@ -77,7 +77,7 @@ Anything missing kindly let us know at [Theekshana Support](https://t.me/Theeksh
 
 ## Devs & Contributors
 
-#### • PAWAN THEEKSHANA    »»  <a href="https://github.com/ImTheekshana126" alt="SADEW451"> <img src="https://img.shields.io/badge/PAWAN THEEKSHANA-90302f?logo=github" /></a> (OWNER)
+#### • PAWAN THEEKSHANA    »»  <a href="https://github.com/pTheekshana105" alt="PAWAN THEEKSHANA"> <img src="https://img.shields.io/badge/PAWAN THEEKSHANA-90302f?logo=github" /></a> (OWNER)
 #### • DAMANTHA JASINGHA  »»  <a href="https://github.com/DAMANTHA126" alt="DAMANTHAJASINGHA"> <img src="https://img.shields.io/badge/DAMANTHA126-82CAFA?logo=github" /></a> (DEV)
 #### • THENULA SENEVIRATHNA »»  <a href="https://T.me/Thenula66" alt="THENULA SENEVIRATHNA"></a> (DEV).
  
