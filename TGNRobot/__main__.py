@@ -74,9 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-🌺Hey there! My name is *Saber*.
-
-I can help manage your groups with useful features, feel free to add me to your groups!
+*Hellow There, I'm Saber 🍑
+I'm a Powerfull group manager bot With Cool Modules. Made My @TeamAnkiVector
+hit /help to Find my list of available commands 🕹*
 """
 STICKERS = (
       "CAACAgUAAxkBAAMxYaC7sIURJEZ2UwS63R2ddwclqKoAAsADAAJgmgFVYsOYytk-2b4iBA",
@@ -85,13 +85,13 @@ STICKERS = (
 buttons = [
    
     [
-        InlineKeyboardButton(text="📡Updates Channel", url=f"https://t.me/theekshana_official"),
+        InlineKeyboardButton(text="📡Updates Channel", url=f"https://t.me/theekshanaofficial"),
         InlineKeyboardButton(
             text="🖲support Group", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="📜Source Code", url=f"https://github.com/imtheekshana126/saber-bot"),
+        InlineKeyboardButton(text="📜Source Code", url=f"https://github.com/ptheekshana105/saber-bot"),
         InlineKeyboardButton(text="❔Help", callback_data="help_back"),
     ],
     [
@@ -108,7 +108,7 @@ START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [Lucifer](t.me/detctective_de) \
- Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/Zaid_updates) \
+ Supporting isnt always financial! [ ɴᴇᴛᴡᴏʀᴋ](https://t.me/theekshanaofficial) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -366,7 +366,7 @@ def zaid_about_callback(update, context):
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_TGN's licensed under the GNU General Public License v3.0_
                  \n❍ Assistant @SaberAssistant.
-                 \nHere is the [💾Repository](https://github.com/imtheekshana126/saber-bot).
+                 \nHere is the [💾Repository](https://github.com/PTheekshana105/saber-bot).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
